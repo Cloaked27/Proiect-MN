@@ -1,1 +1,1 @@
-This is my project for Numerical Methods, in Year 2, at ACS UPB. The problem I opted for was Spectral Graph Clustering, choosing a solution that revolves around Eigenvalues and Eigenvectors, creating all the necessary functions from scratch.
+This is my project for Numerical Methods, in Year 2, at ACS UPB. The problem I opted for was Spectral Graph Clustering, choosing a solution that revolves around Eigenvalues and Eigenvectors, creating all the necessary functions from scratch. My mathematical reasoning is in the pdf file that is inside the repo.
